@@ -95,10 +95,13 @@ body {
 @media (max-width: 640px) {
     .form{
         height: 100%;
-        justify-content: flex-start;
+    }
+    .form-container{
+        height: 90%;
+        margin-top: 70px;
     }
     .primary-button{
-        margin-left: auto;
+        margin-top: auto;
     }
-    
+
 }
